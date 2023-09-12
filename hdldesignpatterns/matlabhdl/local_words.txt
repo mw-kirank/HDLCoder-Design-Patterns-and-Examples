@@ -1,0 +1,11 @@
+# --*-conf-*---
+# Local Words for sbspell and sbcheck -check typos
+# This file is automatically maintained by sbspell.
+# Copyright 2011-2023 The MathWorks, Inc.
+
+ LocalWords:  sfir tb hdlcoder hdldesignpatterns matlabhdl ISIM tif prj
+ LocalWords:  ise sobel dfir tbn aesd FCSD fcsd mosaicking cdetect dlg FPGAs df
+ LocalWords:  vhd synth wo helptargets filespec hdlcodegen sobelfilter BMC ACS
+ LocalWords:  filterdelay commviterbihdl alg renormmethod sysobj BPSK PSK QPSK
+ LocalWords:  Deinterleaver os overline wl dti fixptcfg hdlcfg xout yt Virtex
+ LocalWords:  xc vh hcg XSG xl xsg ce hdlsrc xsgbbxcfg toolstrip ns
